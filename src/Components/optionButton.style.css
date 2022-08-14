@@ -1,0 +1,10 @@
+.optionButton {
+    width: 7rem;
+    height: 7rem;
+    border: none;
+    font-size: xx-large;
+    color: antiquewhite;
+}
+.optionButton:hover{
+    border: none;
+}
